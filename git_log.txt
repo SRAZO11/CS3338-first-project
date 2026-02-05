@@ -1,0 +1,48 @@
+commit 6ab9d6f839a1870146c74603adc9a308ade15aff
+Merge: 1d91e71 6f4d2cf
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 14:32:32 2026 -0800
+
+    Resolve merge conflict
+
+commit 6f4d2cfed6d746443a4eb52408a8aeb8575252c3
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 14:27:40 2026 -0800
+
+    Add favorite movie
+
+commit 1d91e71adbe2ce553837f7a6f4274ceee7a96f0d
+Author: Shary <srazo11@calstatela.edu>
+Date:   Thu Feb 5 14:24:02 2026 -0800
+
+    Adding favorite food
+
+commit 1a2cd7e24dc886b476bb5ed1612edb662d887134
+Author: Shary <srazo11@calstatela.edu>
+Date:   Sun Feb 1 22:29:44 2026 -0800
+
+    Adding repo-location.txt to my git, including its link
+
+commit 734f8519a48449fc8a52f32b9e82a3cb2473f00a
+Author: Shary <srazo11@calstatela.edu>
+Date:   Sun Feb 1 22:20:06 2026 -0800
+
+    Final project proposal software idea
+
+commit e02b77fd837b649b481e75a517080b6c301ef9b2
+Author: Shary Razo <srazo11@calstatela.edu>
+Date:   Sun Feb 1 22:08:11 2026 -0800
+
+    Updated index.html, changed the text onto the file
+
+commit c74a96736d696a4932b27a46e6780b940ed916ee
+Author: Shary <srazo11@calstatela.edu>
+Date:   Sun Feb 1 22:00:06 2026 -0800
+
+    Add index.html onto first project
+
+commit 11305bf84278d7e0d6d97356f6f14762e0560726
+Author: Shary <srazo11@calstatela.edu>
+Date:   Fri Jan 30 11:16:56 2026 -0800
+
+    Commit my README
